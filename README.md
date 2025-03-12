@@ -111,7 +111,7 @@ Strategy: Shortest Queue
 |------------------|--------------------------------------|  
 | **Java**         | Core programming language            |  
 | **Swing**        | GUI framework                        |  
-| **JUnit**        | Testing framework (optional)         |  
+| **JUnit**        | Testing framework                    |  
 
 ---
 
